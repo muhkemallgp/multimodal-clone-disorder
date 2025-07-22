@@ -11,3 +11,4 @@ __pycache__/
 .env
 logs/
 vits/
+clone-voice-coqui/TTS/
